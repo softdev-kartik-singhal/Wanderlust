@@ -7,6 +7,12 @@ A full-stack Airbnb-inspired web application for discovering and listing travel 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![Cloudinary](https://img.shields.io/badge/Storage-Cloudinary-orange)
 
+## 🚀 Live Demo
+
+**[View Live Application](https://wanderlust-vj6s.onrender.com)**
+
+Experience the full-featured travel accommodation platform in action! Browse listings, create an account, and explore all the features.
+
 ## ✨ Features
 
 ### Property Listings
